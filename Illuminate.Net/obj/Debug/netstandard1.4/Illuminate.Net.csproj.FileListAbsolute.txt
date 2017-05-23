@@ -1,7 +1,0 @@
-c:\users\666\documents\visual studio 2017\Projects\Illuminate.Net\Illuminate.Net\bin\Debug\netstandard1.4\Illuminate.Net.deps.json
-c:\users\666\documents\visual studio 2017\Projects\Illuminate.Net\Illuminate.Net\obj\Debug\netstandard1.4\Illuminate.Net.csprojResolveAssemblyReference.cache
-c:\users\666\documents\visual studio 2017\Projects\Illuminate.Net\Illuminate.Net\obj\Debug\netstandard1.4\Illuminate.Net.AssemblyInfo.cs
-c:\users\666\documents\visual studio 2017\Projects\Illuminate.Net\Illuminate.Net\bin\Debug\netstandard1.4\Illuminate.Net.dll
-c:\users\666\documents\visual studio 2017\Projects\Illuminate.Net\Illuminate.Net\bin\Debug\netstandard1.4\Illuminate.Net.pdb
-c:\users\666\documents\visual studio 2017\Projects\Illuminate.Net\Illuminate.Net\obj\Debug\netstandard1.4\Illuminate.Net.dll
-c:\users\666\documents\visual studio 2017\Projects\Illuminate.Net\Illuminate.Net\obj\Debug\netstandard1.4\Illuminate.Net.pdb
