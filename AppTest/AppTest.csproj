@@ -5,6 +5,6 @@
     <TargetFramework>netcoreapp1.1</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
-    <ProjectReference Include="C:\Users\arnoldn\Desktop\IlluminateTest\IlluminateDB\IlluminateDB.csproj" />
+    <ProjectReference Include="..\IlluminateDB\IlluminateDB.csproj" />
   </ItemGroup>
 </Project>

@@ -7061,22 +7061,22 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arnoldn\\Desktop\\IlluminateTest\\AppTest\\AppTest.csproj",
+      "projectUniqueName": "C:\\Users\\arnoldn\\Desktop\\Illuminate.NET\\AppTest\\AppTest.csproj",
       "projectName": "AppTest",
-      "projectPath": "C:\\Users\\arnoldn\\Desktop\\IlluminateTest\\AppTest\\AppTest.csproj",
-      "outputPath": "C:\\Users\\arnoldn\\Desktop\\IlluminateTest\\AppTest\\obj\\",
+      "projectPath": "C:\\Users\\arnoldn\\Desktop\\Illuminate.NET\\AppTest\\AppTest.csproj",
+      "outputPath": "C:\\Users\\arnoldn\\Desktop\\Illuminate.NET\\AppTest\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/AppTest.dll": "C:\\Users\\arnoldn\\Desktop\\IlluminateTest\\AppTest\\bin\\placeholder\\netcoreapp1.1\\AppTest.dll"
+        "lib/netcoreapp1.1/AppTest.dll": "C:\\Users\\arnoldn\\Desktop\\Illuminate.NET\\AppTest\\bin\\placeholder\\netcoreapp1.1\\AppTest.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "C:\\Users\\arnoldn\\Desktop\\IlluminateTest\\IlluminateDB\\IlluminateDB.csproj": {
-              "projectPath": "C:\\Users\\arnoldn\\Desktop\\IlluminateTest\\IlluminateDB\\IlluminateDB.csproj"
+            "C:\\Users\\arnoldn\\Desktop\\Illuminate.NET\\IlluminateDB\\IlluminateDB.csproj": {
+              "projectPath": "C:\\Users\\arnoldn\\Desktop\\Illuminate.NET\\IlluminateDB\\IlluminateDB.csproj"
             }
           }
         }

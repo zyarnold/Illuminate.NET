@@ -3708,16 +3708,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arnoldn\\Desktop\\IlluminateTest\\IlluminateDB\\IlluminateDB.csproj",
+      "projectUniqueName": "C:\\Users\\arnoldn\\Desktop\\Illuminate.NET\\IlluminateDB\\IlluminateDB.csproj",
       "projectName": "IlluminateDB",
-      "projectPath": "C:\\Users\\arnoldn\\Desktop\\IlluminateTest\\IlluminateDB\\IlluminateDB.csproj",
-      "outputPath": "C:\\Users\\arnoldn\\Desktop\\IlluminateTest\\IlluminateDB\\obj\\",
+      "projectPath": "C:\\Users\\arnoldn\\Desktop\\Illuminate.NET\\IlluminateDB\\IlluminateDB.csproj",
+      "outputPath": "C:\\Users\\arnoldn\\Desktop\\Illuminate.NET\\IlluminateDB\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netstandard1.4"
       ],
       "files": {
-        "lib/netstandard1.4/IlluminateDB.dll": "C:\\Users\\arnoldn\\Desktop\\IlluminateTest\\IlluminateDB\\bin\\placeholder\\netstandard1.4\\IlluminateDB.dll"
+        "lib/netstandard1.4/IlluminateDB.dll": "C:\\Users\\arnoldn\\Desktop\\Illuminate.NET\\IlluminateDB\\bin\\placeholder\\netstandard1.4\\IlluminateDB.dll"
       },
       "frameworks": {
         "netstandard1.4": {
