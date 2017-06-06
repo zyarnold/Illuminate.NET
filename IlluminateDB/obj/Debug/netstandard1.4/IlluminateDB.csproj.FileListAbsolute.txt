@@ -1,0 +1,6 @@
+C:\Users\arnoldn\Desktop\IlluminateTest\IlluminateDB\bin\Debug\netstandard1.4\IlluminateDB.deps.json
+C:\Users\arnoldn\Desktop\IlluminateTest\IlluminateDB\bin\Debug\netstandard1.4\IlluminateDB.dll
+C:\Users\arnoldn\Desktop\IlluminateTest\IlluminateDB\bin\Debug\netstandard1.4\IlluminateDB.pdb
+C:\Users\arnoldn\Desktop\IlluminateTest\IlluminateDB\obj\Debug\netstandard1.4\IlluminateDB.AssemblyInfo.cs
+C:\Users\arnoldn\Desktop\IlluminateTest\IlluminateDB\obj\Debug\netstandard1.4\IlluminateDB.dll
+C:\Users\arnoldn\Desktop\IlluminateTest\IlluminateDB\obj\Debug\netstandard1.4\IlluminateDB.pdb
