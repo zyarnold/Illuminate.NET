@@ -11,7 +11,7 @@ namespace AppTest
             string test = DB.Table("Users")
                 .Select("username", "password", "birthDate")
                 .Where("username", "=", asdf)
-                .OrWhere("username", "=", "fffffffffff")
+                .OrWhere("username", "=", "fffffffffffasdf")
                 .Where((QueryBuilder qb)=>{
                     qb.Where("password", "=", "kurapikx")
                     .OrWhere((QueryBuilder qb2)=> {
@@ -21,7 +21,6 @@ namespace AppTest
                 })
                 .Get();
             Console.Write(test);
-            Console.Write("asdf");
         }
     }
 }
